@@ -1,0 +1,65 @@
+{
+  "siteName": "Hidrolik Yağı",
+  "siteTitle": "Hidrolik Yağı - Orijinal Endüstriyel Yağlar & Hızlı Tedarik",
+  "metaDescription": "Artoil, Mobil, Castrol, Shell, Petrol Ofisi yetkili bayii kalitesinde hidrolik yağları. Toptan ve perakende satış, teknik destek, aynı gün kargo ve en uygun fiyat teklifleri.",
+  "domain": "https://hidrolikyagi.com",
+  "phone": "+90 506 940 1210",
+  "phoneRaw": "+905069401210",
+  "whatsapp": "905069401210",
+  "whatsappMessage": "[hidrolikyag.com] MUSTERI ILETISIM HATTI\n\nMerhaba, hidrolik yaglari hakkinda detayli bilgi ve fiyat teklifi almak istiyorum.",
+  "email": "bilgi@hidrolikyag.com",
+  "address": "Arap Camii Mh. Bakır Sk. No:6/A Beyoğlu/İSTANBUL",
+  "primaryColor": "#f59e0b",
+  "brands": [
+    {
+      "id": "all",
+      "name": "Tüm Markalar"
+    },
+    {
+      "id": "artoil",
+      "name": "Artoil",
+      "badge": "En Çok Satan",
+      "color": "#0ea5e9"
+    },
+    {
+      "id": "mobil",
+      "name": "Mobil",
+      "badge": "Premium",
+      "color": "#dc2626"
+    },
+    {
+      "id": "castrol",
+      "name": "Castrol",
+      "badge": "Endüstriyel",
+      "color": "#16a34a"
+    },
+    {
+      "id": "shell",
+      "name": "Shell",
+      "badge": "Global Güvence",
+      "color": "#eab308"
+    },
+    {
+      "id": "petrol-ofisi",
+      "name": "Petrol Ofisi",
+      "badge": "Yerli Lider",
+      "color": "#dc2626"
+    }
+  ],
+  "viscosities": [
+    "Tümü",
+    "ISO VG 2",
+    "ISO VG 5",
+    "ISO VG 10",
+    "ISO VG 15",
+    "ISO VG 22",
+    "ISO VG 32",
+    "ISO VG 37",
+    "ISO VG 46",
+    "ISO VG 68",
+    "ISO VG 100",
+    "ISO VG 150"
+  ],
+  "siteUrl": "https://hidrolikyagi.com",
+  "contactEmail": "bilgi@hidrolikyagi.com"
+}
