@@ -1,17 +1,17 @@
 [
   {
-    "id": "artoil-hydros-32-hidrolik-yagi-16-l",
-    "name": "Artoil Hydros 32 Hidrolik Yağı - 16 L",
+    "id": "artoil-hydros-32-hidrolik-yagi-15-l",
+    "name": "Artoil Hydros 32 Hidrolik Yağı - 15 L",
     "brand": "artoil",
     "brandName": "Artoil",
     "series": "Hydros 32",
     "viscosity": "ISO VG 32",
-    "packageSize": "16 L",
+    "packageSize": "15 L",
     "packageType": "Teneke",
     "inStock": true,
     "featured": true,
-    "shortDescription": "Artoil Hydros 32 Hidrolik Yağı - 16 L (16 L), Artoil Hydros 32 ailesinin ISO VG 32 sınıfı ürünü olup seri çalışan CNC tezgahları, abkant presler ve standart fabrika hidrolik ünitelerinde pompa aşınmasını ve ısınmayı önler.",
-    "description": "<p class=\"lead\">Orijinal <strong>16 L</strong> ambalajında sunulan <strong>Artoil Hydros 32 Hidrolik Yağı - 16 L</strong>, Artoil markasının <strong>Hydros 32</strong> ürün grubunda yer alan, <strong>ISO VG 32</strong> viskozite değerine sahip yüksek kaliteli hidrolik sistem yağıdır ve seri çalışan CNC tezgahları, abkant presler ve standart fabrika hidrolik ünitelerinde pompa aşınmasını ve ısınmayı önler.</p>\n\n<h3>Artoil Hydros 32 Hidrolik Yağı - 16 L Ürün Özellikleri ve İşletme Avantajları</h3>\n<ul>\n  <li><strong>Özel ISO VG 32 Akışkanlık Dengesi:</strong> Bu ürün, seri çalışan CNC tezgahları, abkant presler ve standart fabrika hidrolik ünitelerinde pompa aşınmasını ve ısınmayı önler.</li>\n  <li><strong>Oksidasyon ve Tortu Direnci:</strong> Uzun süreli sıcak çalışma koşullarında dahi yağın kalınlaşmasını, çamurlaşmasını ve valf sürgülerinde vernik bırakmasını engeller.</li>\n  <li><strong>Korozyon ve Pas Koruması:</strong> Hidrolik devre elemanlarını, silindir millerini ve tank yüzeylerini neme ve pasa karşı koruma altına alır.</li>\n  <li><strong>Sızdırmazlık Elemanlarıyla Tam Uyum:</strong> Sistemdeki elastomer keçe ve o-ringlerin esnekliğini koruyarak yağ kaçaklarının önüne geçer.</li>\n</ul>\n\n<h3>Hangi Makinelerde Tercih Edilir?</h3>\n<p>Artoil Hydros 32 Hidrolik Yağı - 16 L (16 L); üretici kataloglarında ISO VG 32 sınıfı hidrolik yağ önerilen sanayi presleri, enjeksiyon makineleri, kaldırma platformları, takım tezgahları ve iş makinelerinin hidrolik devrelerinde yüksek performansla çalışır.</p>\n\n<h3>Performans Seviyesi</h3>\n<p>ISO 11158, DIN 51524 (HLP) ve önde gelen hidrolik pompa üreticilerinin teknik şartnamelerine uygundur.</p>",
+    "shortDescription": "Artoil Hydros 32 Hidrolik Yağı - 15 L (15 L), Artoil Hydros 32 ailesinin ISO VG 32 sınıfı ürünü olup seri çalışan CNC tezgahları, abkant presler ve standart fabrika hidrolik ünitelerinde pompa aşınmasını ve ısınmayı önler.",
+    "description": "<p class=\"lead\">Orijinal <strong>15 L</strong> ambalajında sunulan <strong>Artoil Hydros 32 Hidrolik Yağı - 15 L</strong>, Artoil markasının <strong>Hydros 32</strong> ürün grubunda yer alan, <strong>ISO VG 32</strong> viskozite değerine sahip yüksek kaliteli hidrolik sistem yağıdır ve seri çalışan CNC tezgahları, abkant presler ve standart fabrika hidrolik ünitelerinde pompa aşınmasını ve ısınmayı önler.</p>\n\n<h3>Artoil Hydros 32 Hidrolik Yağı - 15 L Ürün Özellikleri ve İşletme Avantajları</h3>\n<ul>\n  <li><strong>Özel ISO VG 32 Akışkanlık Dengesi:</strong> Bu ürün, seri çalışan CNC tezgahları, abkant presler ve standart fabrika hidrolik ünitelerinde pompa aşınmasını ve ısınmayı önler.</li>\n  <li><strong>Oksidasyon ve Tortu Direnci:</strong> Uzun süreli sıcak çalışma koşullarında dahi yağın kalınlaşmasını, çamurlaşmasını ve valf sürgülerinde vernik bırakmasını engeller.</li>\n  <li><strong>Korozyon ve Pas Koruması:</strong> Hidrolik devre elemanlarını, silindir millerini ve tank yüzeylerini neme ve pasa karşı koruma altına alır.</li>\n  <li><strong>Sızdırmazlık Elemanlarıyla Tam Uyum:</strong> Sistemdeki elastomer keçe ve o-ringlerin esnekliğini koruyarak yağ kaçaklarının önüne geçer.</li>\n</ul>\n\n<h3>Hangi Makinelerde Tercih Edilir?</h3>\n<p>Artoil Hydros 32 Hidrolik Yağı - 15 L (15 L); üretici kataloglarında ISO VG 32 sınıfı hidrolik yağ önerilen sanayi presleri, enjeksiyon makineleri, kaldırma platformları, takım tezgahları ve iş makinelerinin hidrolik devrelerinde yüksek performansla çalışır.</p>\n\n<h3>Performans Seviyesi</h3>\n<p>ISO 11158, DIN 51524 (HLP) ve önde gelen hidrolik pompa üreticilerinin teknik şartnamelerine uygundur.</p>",
     "specs": [
       {
         "label": "Viskozite Sınıfı",
@@ -19,7 +19,7 @@
       },
       {
         "label": "Ambalaj Tipi",
-        "value": "16 L (Teneke)"
+        "value": "15 L (Teneke)"
       },
       {
         "label": "Marka",
@@ -37,21 +37,21 @@
     "image": "/images/products/artoil-hydros-32-hidrolik-yagi-16-l.png",
     "msdsUrl": "https://hidrolikyagi.net/wp-content/uploads/2024/10/artoil-hydros-32-msds.pdf",
     "tdsUrl": "https://hidrolikyagi.net/wp-content/uploads/2024/10/artoil-hydros-32-tds.pdf",
-    "shortDesc": "Artoil Hydros 32 Hidrolik Yağı - 16 L (16 L), Artoil Hydros 32 ailesinin ISO VG 32 sınıfı ürünü olup seri çalışan CNC tezgahları, abkant presler ve standart fabrika hidrolik ünitelerinde pompa aşınmasını ve ısınmayı önler."
+    "shortDesc": "Artoil Hydros 32 Hidrolik Yağı - 15 L (15 L), Artoil Hydros 32 ailesinin ISO VG 32 sınıfı ürünü olup seri çalışan CNC tezgahları, abkant presler ve standart fabrika hidrolik ünitelerinde pompa aşınmasını ve ısınmayı önler."
   },
   {
-    "id": "artoil-hydros-37-hidrolik-yagi-16-l",
-    "name": "Artoil Hydros 37 Hidrolik Yağı - 16 L",
+    "id": "artoil-hydros-37-hidrolik-yagi-15-l",
+    "name": "Artoil Hydros 37 Hidrolik Yağı - 15 L",
     "brand": "artoil",
     "brandName": "Artoil",
     "series": "Hydros 37",
     "viscosity": "ISO VG 37",
-    "packageSize": "16 L",
+    "packageSize": "15 L",
     "packageType": "Teneke",
     "inStock": true,
     "featured": true,
-    "shortDescription": "Artoil Hydros 37 Hidrolik Yağı - 16 L (16 L), Artoil Hydros 37 ailesinin ISO VG 37 sınıfı ürünü olup değişken yük ve hız rejimi altında çalışan özel amaçlı hidrolik pres ve enjeksiyon sistemlerinde stabil basınç kontrolü sağlar.",
-    "description": "<p class=\"lead\">Orijinal <strong>16 L</strong> ambalajında sunulan <strong>Artoil Hydros 37 Hidrolik Yağı - 16 L</strong>, Artoil markasının <strong>Hydros 37</strong> ürün grubunda yer alan, <strong>ISO VG 37</strong> viskozite değerine sahip yüksek kaliteli hidrolik sistem yağıdır ve değişken yük ve hız rejimi altında çalışan özel amaçlı hidrolik pres ve enjeksiyon sistemlerinde stabil basınç kontrolü sağlar.</p>\n\n<h3>Artoil Hydros 37 Hidrolik Yağı - 16 L Ürün Özellikleri ve İşletme Avantajları</h3>\n<ul>\n  <li><strong>Özel ISO VG 37 Akışkanlık Dengesi:</strong> Bu ürün, değişken yük ve hız rejimi altında çalışan özel amaçlı hidrolik pres ve enjeksiyon sistemlerinde stabil basınç kontrolü sağlar.</li>\n  <li><strong>Oksidasyon ve Tortu Direnci:</strong> Uzun süreli sıcak çalışma koşullarında dahi yağın kalınlaşmasını, çamurlaşmasını ve valf sürgülerinde vernik bırakmasını engeller.</li>\n  <li><strong>Korozyon ve Pas Koruması:</strong> Hidrolik devre elemanlarını, silindir millerini ve tank yüzeylerini neme ve pasa karşı koruma altına alır.</li>\n  <li><strong>Sızdırmazlık Elemanlarıyla Tam Uyum:</strong> Sistemdeki elastomer keçe ve o-ringlerin esnekliğini koruyarak yağ kaçaklarının önüne geçer.</li>\n</ul>\n\n<h3>Hangi Makinelerde Tercih Edilir?</h3>\n<p>Artoil Hydros 37 Hidrolik Yağı - 16 L (16 L); üretici kataloglarında ISO VG 37 sınıfı hidrolik yağ önerilen sanayi presleri, enjeksiyon makineleri, kaldırma platformları, takım tezgahları ve iş makinelerinin hidrolik devrelerinde yüksek performansla çalışır.</p>\n\n<h3>Performans Seviyesi</h3>\n<p>ISO 11158, DIN 51524 (HLP) ve önde gelen hidrolik pompa üreticilerinin teknik şartnamelerine uygundur.</p>",
+    "shortDescription": "Artoil Hydros 37 Hidrolik Yağı - 15 L (15 L), Artoil Hydros 37 ailesinin ISO VG 37 sınıfı ürünü olup değişken yük ve hız rejimi altında çalışan özel amaçlı hidrolik pres ve enjeksiyon sistemlerinde stabil basınç kontrolü sağlar.",
+    "description": "<p class=\"lead\">Orijinal <strong>15 L</strong> ambalajında sunulan <strong>Artoil Hydros 37 Hidrolik Yağı - 15 L</strong>, Artoil markasının <strong>Hydros 37</strong> ürün grubunda yer alan, <strong>ISO VG 37</strong> viskozite değerine sahip yüksek kaliteli hidrolik sistem yağıdır ve değişken yük ve hız rejimi altında çalışan özel amaçlı hidrolik pres ve enjeksiyon sistemlerinde stabil basınç kontrolü sağlar.</p>\n\n<h3>Artoil Hydros 37 Hidrolik Yağı - 15 L Ürün Özellikleri ve İşletme Avantajları</h3>\n<ul>\n  <li><strong>Özel ISO VG 37 Akışkanlık Dengesi:</strong> Bu ürün, değişken yük ve hız rejimi altında çalışan özel amaçlı hidrolik pres ve enjeksiyon sistemlerinde stabil basınç kontrolü sağlar.</li>\n  <li><strong>Oksidasyon ve Tortu Direnci:</strong> Uzun süreli sıcak çalışma koşullarında dahi yağın kalınlaşmasını, çamurlaşmasını ve valf sürgülerinde vernik bırakmasını engeller.</li>\n  <li><strong>Korozyon ve Pas Koruması:</strong> Hidrolik devre elemanlarını, silindir millerini ve tank yüzeylerini neme ve pasa karşı koruma altına alır.</li>\n  <li><strong>Sızdırmazlık Elemanlarıyla Tam Uyum:</strong> Sistemdeki elastomer keçe ve o-ringlerin esnekliğini koruyarak yağ kaçaklarının önüne geçer.</li>\n</ul>\n\n<h3>Hangi Makinelerde Tercih Edilir?</h3>\n<p>Artoil Hydros 37 Hidrolik Yağı - 15 L (15 L); üretici kataloglarında ISO VG 37 sınıfı hidrolik yağ önerilen sanayi presleri, enjeksiyon makineleri, kaldırma platformları, takım tezgahları ve iş makinelerinin hidrolik devrelerinde yüksek performansla çalışır.</p>\n\n<h3>Performans Seviyesi</h3>\n<p>ISO 11158, DIN 51524 (HLP) ve önde gelen hidrolik pompa üreticilerinin teknik şartnamelerine uygundur.</p>",
     "specs": [
       {
         "label": "Viskozite Sınıfı",
@@ -59,7 +59,7 @@
       },
       {
         "label": "Ambalaj Tipi",
-        "value": "16 L (Teneke)"
+        "value": "15 L (Teneke)"
       },
       {
         "label": "Marka",
@@ -77,21 +77,21 @@
     "image": "/images/products/artoil-hydros-37-hidrolik-yagi-16-l.png",
     "msdsUrl": "#",
     "tdsUrl": "#",
-    "shortDesc": "Artoil Hydros 37 Hidrolik Yağı - 16 L (16 L), Artoil Hydros 37 ailesinin ISO VG 37 sınıfı ürünü olup değişken yük ve hız rejimi altında çalışan özel amaçlı hidrolik pres ve enjeksiyon sistemlerinde stabil basınç kontrolü sağlar."
+    "shortDesc": "Artoil Hydros 37 Hidrolik Yağı - 15 L (15 L), Artoil Hydros 37 ailesinin ISO VG 37 sınıfı ürünü olup değişken yük ve hız rejimi altında çalışan özel amaçlı hidrolik pres ve enjeksiyon sistemlerinde stabil basınç kontrolü sağlar."
   },
   {
-    "id": "artoil-hydros-46-hidrolik-yagi-16-l",
-    "name": "Artoil Hydros 46 Hidrolik Yağı - 16 L",
+    "id": "artoil-hydros-46-hidrolik-yagi-15-l",
+    "name": "Artoil Hydros 46 Hidrolik Yağı - 15 L",
     "brand": "artoil",
     "brandName": "Artoil",
     "series": "Hydros 46",
     "viscosity": "ISO VG 46",
-    "packageSize": "16 L",
+    "packageSize": "15 L",
     "packageType": "Teneke",
     "inStock": true,
     "featured": true,
-    "shortDescription": "Artoil Hydros 46 Hidrolik Yağı - 16 L (16 L), Artoil Hydros 46 ailesinin ISO VG 46 sınıfı ürünü olup orta ve yüksek basınçlı kanatlı, dişli ve pistonlu pompalara sahip tüm sanayi makinelerinde dört mevsim güvenilir performans gösterir.",
-    "description": "<p class=\"lead\">Orijinal <strong>16 L</strong> ambalajında sunulan <strong>Artoil Hydros 46 Hidrolik Yağı - 16 L</strong>, Artoil markasının <strong>Hydros 46</strong> ürün grubunda yer alan, <strong>ISO VG 46</strong> viskozite değerine sahip yüksek kaliteli hidrolik sistem yağıdır ve orta ve yüksek basınçlı kanatlı, dişli ve pistonlu pompalara sahip tüm sanayi makinelerinde dört mevsim güvenilir performans gösterir.</p>\n\n<h3>Artoil Hydros 46 Hidrolik Yağı - 16 L Ürün Özellikleri ve İşletme Avantajları</h3>\n<ul>\n  <li><strong>Özel ISO VG 46 Akışkanlık Dengesi:</strong> Bu ürün, orta ve yüksek basınçlı kanatlı, dişli ve pistonlu pompalara sahip tüm sanayi makinelerinde dört mevsim güvenilir performans gösterir.</li>\n  <li><strong>Oksidasyon ve Tortu Direnci:</strong> Uzun süreli sıcak çalışma koşullarında dahi yağın kalınlaşmasını, çamurlaşmasını ve valf sürgülerinde vernik bırakmasını engeller.</li>\n  <li><strong>Korozyon ve Pas Koruması:</strong> Hidrolik devre elemanlarını, silindir millerini ve tank yüzeylerini neme ve pasa karşı koruma altına alır.</li>\n  <li><strong>Sızdırmazlık Elemanlarıyla Tam Uyum:</strong> Sistemdeki elastomer keçe ve o-ringlerin esnekliğini koruyarak yağ kaçaklarının önüne geçer.</li>\n</ul>\n\n<h3>Hangi Makinelerde Tercih Edilir?</h3>\n<p>Artoil Hydros 46 Hidrolik Yağı - 16 L (16 L); üretici kataloglarında ISO VG 46 sınıfı hidrolik yağ önerilen sanayi presleri, enjeksiyon makineleri, kaldırma platformları, takım tezgahları ve iş makinelerinin hidrolik devrelerinde yüksek performansla çalışır.</p>\n\n<h3>Performans Seviyesi</h3>\n<p>ISO 11158, DIN 51524 (HLP) ve önde gelen hidrolik pompa üreticilerinin teknik şartnamelerine uygundur.</p>",
+    "shortDescription": "Artoil Hydros 46 Hidrolik Yağı - 15 L (15 L), Artoil Hydros 46 ailesinin ISO VG 46 sınıfı ürünü olup orta ve yüksek basınçlı kanatlı, dişli ve pistonlu pompalara sahip tüm sanayi makinelerinde dört mevsim güvenilir performans gösterir.",
+    "description": "<p class=\"lead\">Orijinal <strong>15 L</strong> ambalajında sunulan <strong>Artoil Hydros 46 Hidrolik Yağı - 15 L</strong>, Artoil markasının <strong>Hydros 46</strong> ürün grubunda yer alan, <strong>ISO VG 46</strong> viskozite değerine sahip yüksek kaliteli hidrolik sistem yağıdır ve orta ve yüksek basınçlı kanatlı, dişli ve pistonlu pompalara sahip tüm sanayi makinelerinde dört mevsim güvenilir performans gösterir.</p>\n\n<h3>Artoil Hydros 46 Hidrolik Yağı - 15 L Ürün Özellikleri ve İşletme Avantajları</h3>\n<ul>\n  <li><strong>Özel ISO VG 46 Akışkanlık Dengesi:</strong> Bu ürün, orta ve yüksek basınçlı kanatlı, dişli ve pistonlu pompalara sahip tüm sanayi makinelerinde dört mevsim güvenilir performans gösterir.</li>\n  <li><strong>Oksidasyon ve Tortu Direnci:</strong> Uzun süreli sıcak çalışma koşullarında dahi yağın kalınlaşmasını, çamurlaşmasını ve valf sürgülerinde vernik bırakmasını engeller.</li>\n  <li><strong>Korozyon ve Pas Koruması:</strong> Hidrolik devre elemanlarını, silindir millerini ve tank yüzeylerini neme ve pasa karşı koruma altına alır.</li>\n  <li><strong>Sızdırmazlık Elemanlarıyla Tam Uyum:</strong> Sistemdeki elastomer keçe ve o-ringlerin esnekliğini koruyarak yağ kaçaklarının önüne geçer.</li>\n</ul>\n\n<h3>Hangi Makinelerde Tercih Edilir?</h3>\n<p>Artoil Hydros 46 Hidrolik Yağı - 15 L (15 L); üretici kataloglarında ISO VG 46 sınıfı hidrolik yağ önerilen sanayi presleri, enjeksiyon makineleri, kaldırma platformları, takım tezgahları ve iş makinelerinin hidrolik devrelerinde yüksek performansla çalışır.</p>\n\n<h3>Performans Seviyesi</h3>\n<p>ISO 11158, DIN 51524 (HLP) ve önde gelen hidrolik pompa üreticilerinin teknik şartnamelerine uygundur.</p>",
     "specs": [
       {
         "label": "Viskozite Sınıfı",
@@ -99,7 +99,7 @@
       },
       {
         "label": "Ambalaj Tipi",
-        "value": "16 L (Teneke)"
+        "value": "15 L (Teneke)"
       },
       {
         "label": "Marka",
@@ -117,21 +117,21 @@
     "image": "/images/products/artoil-hydros-46-hidrolik-yagi-16-l.png",
     "msdsUrl": "https://hidrolikyagi.net/wp-content/uploads/2024/10/artoil-hydros-46-hidrolik-yagi-msds.pdf",
     "tdsUrl": "https://hidrolikyagi.net/wp-content/uploads/2024/10/artoil-hydros-46-hidrolik-yagi-tds.pdf",
-    "shortDesc": "Artoil Hydros 46 Hidrolik Yağı - 16 L (16 L), Artoil Hydros 46 ailesinin ISO VG 46 sınıfı ürünü olup orta ve yüksek basınçlı kanatlı, dişli ve pistonlu pompalara sahip tüm sanayi makinelerinde dört mevsim güvenilir performans gösterir."
+    "shortDesc": "Artoil Hydros 46 Hidrolik Yağı - 15 L (15 L), Artoil Hydros 46 ailesinin ISO VG 46 sınıfı ürünü olup orta ve yüksek basınçlı kanatlı, dişli ve pistonlu pompalara sahip tüm sanayi makinelerinde dört mevsim güvenilir performans gösterir."
   },
   {
-    "id": "artoil-hydros-68-hidrolik-yagi-16-l",
-    "name": "Artoil Hydros 68 Hidrolik Yağı - 16 L",
+    "id": "artoil-hydros-68-hidrolik-yagi-15-l",
+    "name": "Artoil Hydros 68 Hidrolik Yağı - 15 L",
     "brand": "artoil",
     "brandName": "Artoil",
     "series": "Hydros 68",
     "viscosity": "ISO VG 68",
-    "packageSize": "16 L",
+    "packageSize": "15 L",
     "packageType": "Teneke",
     "inStock": true,
     "featured": true,
-    "shortDescription": "Artoil Hydros 68 Hidrolik Yağı - 16 L (16 L), Artoil Hydros 68 ailesinin ISO VG 68 sınıfı ürünü olup yüksek çalışma sıcaklığına ve ağır darbeli yüklere maruz kalan inşaat makineleri, hurda presleri ve mermer makinelerinde iç kaçakları önler.",
-    "description": "<p class=\"lead\">Orijinal <strong>16 L</strong> ambalajında sunulan <strong>Artoil Hydros 68 Hidrolik Yağı - 16 L</strong>, Artoil markasının <strong>Hydros 68</strong> ürün grubunda yer alan, <strong>ISO VG 68</strong> viskozite değerine sahip yüksek kaliteli hidrolik sistem yağıdır ve yüksek çalışma sıcaklığına ve ağır darbeli yüklere maruz kalan inşaat makineleri, hurda presleri ve mermer makinelerinde iç kaçakları önler.</p>\n\n<h3>Artoil Hydros 68 Hidrolik Yağı - 16 L Ürün Özellikleri ve İşletme Avantajları</h3>\n<ul>\n  <li><strong>Özel ISO VG 68 Akışkanlık Dengesi:</strong> Bu ürün, yüksek çalışma sıcaklığına ve ağır darbeli yüklere maruz kalan inşaat makineleri, hurda presleri ve mermer makinelerinde iç kaçakları önler.</li>\n  <li><strong>Oksidasyon ve Tortu Direnci:</strong> Uzun süreli sıcak çalışma koşullarında dahi yağın kalınlaşmasını, çamurlaşmasını ve valf sürgülerinde vernik bırakmasını engeller.</li>\n  <li><strong>Korozyon ve Pas Koruması:</strong> Hidrolik devre elemanlarını, silindir millerini ve tank yüzeylerini neme ve pasa karşı koruma altına alır.</li>\n  <li><strong>Sızdırmazlık Elemanlarıyla Tam Uyum:</strong> Sistemdeki elastomer keçe ve o-ringlerin esnekliğini koruyarak yağ kaçaklarının önüne geçer.</li>\n</ul>\n\n<h3>Hangi Makinelerde Tercih Edilir?</h3>\n<p>Artoil Hydros 68 Hidrolik Yağı - 16 L (16 L); üretici kataloglarında ISO VG 68 sınıfı hidrolik yağ önerilen sanayi presleri, enjeksiyon makineleri, kaldırma platformları, takım tezgahları ve iş makinelerinin hidrolik devrelerinde yüksek performansla çalışır.</p>\n\n<h3>Performans Seviyesi</h3>\n<p>ISO 11158, DIN 51524 (HLP) ve önde gelen hidrolik pompa üreticilerinin teknik şartnamelerine uygundur.</p>",
+    "shortDescription": "Artoil Hydros 68 Hidrolik Yağı - 15 L (15 L), Artoil Hydros 68 ailesinin ISO VG 68 sınıfı ürünü olup yüksek çalışma sıcaklığına ve ağır darbeli yüklere maruz kalan inşaat makineleri, hurda presleri ve mermer makinelerinde iç kaçakları önler.",
+    "description": "<p class=\"lead\">Orijinal <strong>15 L</strong> ambalajında sunulan <strong>Artoil Hydros 68 Hidrolik Yağı - 15 L</strong>, Artoil markasının <strong>Hydros 68</strong> ürün grubunda yer alan, <strong>ISO VG 68</strong> viskozite değerine sahip yüksek kaliteli hidrolik sistem yağıdır ve yüksek çalışma sıcaklığına ve ağır darbeli yüklere maruz kalan inşaat makineleri, hurda presleri ve mermer makinelerinde iç kaçakları önler.</p>\n\n<h3>Artoil Hydros 68 Hidrolik Yağı - 15 L Ürün Özellikleri ve İşletme Avantajları</h3>\n<ul>\n  <li><strong>Özel ISO VG 68 Akışkanlık Dengesi:</strong> Bu ürün, yüksek çalışma sıcaklığına ve ağır darbeli yüklere maruz kalan inşaat makineleri, hurda presleri ve mermer makinelerinde iç kaçakları önler.</li>\n  <li><strong>Oksidasyon ve Tortu Direnci:</strong> Uzun süreli sıcak çalışma koşullarında dahi yağın kalınlaşmasını, çamurlaşmasını ve valf sürgülerinde vernik bırakmasını engeller.</li>\n  <li><strong>Korozyon ve Pas Koruması:</strong> Hidrolik devre elemanlarını, silindir millerini ve tank yüzeylerini neme ve pasa karşı koruma altına alır.</li>\n  <li><strong>Sızdırmazlık Elemanlarıyla Tam Uyum:</strong> Sistemdeki elastomer keçe ve o-ringlerin esnekliğini koruyarak yağ kaçaklarının önüne geçer.</li>\n</ul>\n\n<h3>Hangi Makinelerde Tercih Edilir?</h3>\n<p>Artoil Hydros 68 Hidrolik Yağı - 15 L (15 L); üretici kataloglarında ISO VG 68 sınıfı hidrolik yağ önerilen sanayi presleri, enjeksiyon makineleri, kaldırma platformları, takım tezgahları ve iş makinelerinin hidrolik devrelerinde yüksek performansla çalışır.</p>\n\n<h3>Performans Seviyesi</h3>\n<p>ISO 11158, DIN 51524 (HLP) ve önde gelen hidrolik pompa üreticilerinin teknik şartnamelerine uygundur.</p>",
     "specs": [
       {
         "label": "Viskozite Sınıfı",
@@ -139,7 +139,7 @@
       },
       {
         "label": "Ambalaj Tipi",
-        "value": "16 L (Teneke)"
+        "value": "15 L (Teneke)"
       },
       {
         "label": "Marka",
@@ -157,21 +157,21 @@
     "image": "/images/products/artoil-hydros-68-hidrolik-yagi-16-l.png",
     "msdsUrl": "https://hidrolikyagi.net/wp-content/uploads/2024/10/artoil-hydros-68-hidrolik-yagi-msds.pdf",
     "tdsUrl": "https://hidrolikyagi.net/wp-content/uploads/2024/10/artoil-hydros-68-hidrolik-yagi-tds.pdf",
-    "shortDesc": "Artoil Hydros 68 Hidrolik Yağı - 16 L (16 L), Artoil Hydros 68 ailesinin ISO VG 68 sınıfı ürünü olup yüksek çalışma sıcaklığına ve ağır darbeli yüklere maruz kalan inşaat makineleri, hurda presleri ve mermer makinelerinde iç kaçakları önler."
+    "shortDesc": "Artoil Hydros 68 Hidrolik Yağı - 15 L (15 L), Artoil Hydros 68 ailesinin ISO VG 68 sınıfı ürünü olup yüksek çalışma sıcaklığına ve ağır darbeli yüklere maruz kalan inşaat makineleri, hurda presleri ve mermer makinelerinde iç kaçakları önler."
   },
   {
-    "id": "artoil-hydros-100-hidrolik-yagi-16-l",
-    "name": "Artoil Hydros 100 Hidrolik Yağı - 16 L",
+    "id": "artoil-hydros-100-hidrolik-yagi-15-l",
+    "name": "Artoil Hydros 100 Hidrolik Yağı - 15 L",
     "brand": "artoil",
     "brandName": "Artoil",
     "series": "Hydros 100",
     "viscosity": "ISO VG 100",
-    "packageSize": "16 L",
+    "packageSize": "15 L",
     "packageType": "Teneke",
     "inStock": true,
     "featured": true,
-    "shortDescription": "Artoil Hydros 100 Hidrolik Yağı - 16 L (16 L), Artoil Hydros 100 ailesinin ISO VG 100 sınıfı ürünü olup ağır hizmet tipi endüstriyel sirkülasyon sistemleri ve yüksek basınçlı büyük çaplı hidrolik silindirlerde güçlü yastıklama sunar.",
-    "description": "<p class=\"lead\">Orijinal <strong>16 L</strong> ambalajında sunulan <strong>Artoil Hydros 100 Hidrolik Yağı - 16 L</strong>, Artoil markasının <strong>Hydros 100</strong> ürün grubunda yer alan, <strong>ISO VG 100</strong> viskozite değerine sahip yüksek kaliteli hidrolik sistem yağıdır ve ağır hizmet tipi endüstriyel sirkülasyon sistemleri ve yüksek basınçlı büyük çaplı hidrolik silindirlerde güçlü yastıklama sunar.</p>\n\n<h3>Artoil Hydros 100 Hidrolik Yağı - 16 L Ürün Özellikleri ve İşletme Avantajları</h3>\n<ul>\n  <li><strong>Özel ISO VG 100 Akışkanlık Dengesi:</strong> Bu ürün, ağır hizmet tipi endüstriyel sirkülasyon sistemleri ve yüksek basınçlı büyük çaplı hidrolik silindirlerde güçlü yastıklama sunar.</li>\n  <li><strong>Oksidasyon ve Tortu Direnci:</strong> Uzun süreli sıcak çalışma koşullarında dahi yağın kalınlaşmasını, çamurlaşmasını ve valf sürgülerinde vernik bırakmasını engeller.</li>\n  <li><strong>Korozyon ve Pas Koruması:</strong> Hidrolik devre elemanlarını, silindir millerini ve tank yüzeylerini neme ve pasa karşı koruma altına alır.</li>\n  <li><strong>Sızdırmazlık Elemanlarıyla Tam Uyum:</strong> Sistemdeki elastomer keçe ve o-ringlerin esnekliğini koruyarak yağ kaçaklarının önüne geçer.</li>\n</ul>\n\n<h3>Hangi Makinelerde Tercih Edilir?</h3>\n<p>Artoil Hydros 100 Hidrolik Yağı - 16 L (16 L); üretici kataloglarında ISO VG 100 sınıfı hidrolik yağ önerilen sanayi presleri, enjeksiyon makineleri, kaldırma platformları, takım tezgahları ve iş makinelerinin hidrolik devrelerinde yüksek performansla çalışır.</p>\n\n<h3>Performans Seviyesi</h3>\n<p>ISO 11158, DIN 51524 (HLP) ve önde gelen hidrolik pompa üreticilerinin teknik şartnamelerine uygundur.</p>",
+    "shortDescription": "Artoil Hydros 100 Hidrolik Yağı - 15 L (15 L), Artoil Hydros 100 ailesinin ISO VG 100 sınıfı ürünü olup ağır hizmet tipi endüstriyel sirkülasyon sistemleri ve yüksek basınçlı büyük çaplı hidrolik silindirlerde güçlü yastıklama sunar.",
+    "description": "<p class=\"lead\">Orijinal <strong>15 L</strong> ambalajında sunulan <strong>Artoil Hydros 100 Hidrolik Yağı - 15 L</strong>, Artoil markasının <strong>Hydros 100</strong> ürün grubunda yer alan, <strong>ISO VG 100</strong> viskozite değerine sahip yüksek kaliteli hidrolik sistem yağıdır ve ağır hizmet tipi endüstriyel sirkülasyon sistemleri ve yüksek basınçlı büyük çaplı hidrolik silindirlerde güçlü yastıklama sunar.</p>\n\n<h3>Artoil Hydros 100 Hidrolik Yağı - 15 L Ürün Özellikleri ve İşletme Avantajları</h3>\n<ul>\n  <li><strong>Özel ISO VG 100 Akışkanlık Dengesi:</strong> Bu ürün, ağır hizmet tipi endüstriyel sirkülasyon sistemleri ve yüksek basınçlı büyük çaplı hidrolik silindirlerde güçlü yastıklama sunar.</li>\n  <li><strong>Oksidasyon ve Tortu Direnci:</strong> Uzun süreli sıcak çalışma koşullarında dahi yağın kalınlaşmasını, çamurlaşmasını ve valf sürgülerinde vernik bırakmasını engeller.</li>\n  <li><strong>Korozyon ve Pas Koruması:</strong> Hidrolik devre elemanlarını, silindir millerini ve tank yüzeylerini neme ve pasa karşı koruma altına alır.</li>\n  <li><strong>Sızdırmazlık Elemanlarıyla Tam Uyum:</strong> Sistemdeki elastomer keçe ve o-ringlerin esnekliğini koruyarak yağ kaçaklarının önüne geçer.</li>\n</ul>\n\n<h3>Hangi Makinelerde Tercih Edilir?</h3>\n<p>Artoil Hydros 100 Hidrolik Yağı - 15 L (15 L); üretici kataloglarında ISO VG 100 sınıfı hidrolik yağ önerilen sanayi presleri, enjeksiyon makineleri, kaldırma platformları, takım tezgahları ve iş makinelerinin hidrolik devrelerinde yüksek performansla çalışır.</p>\n\n<h3>Performans Seviyesi</h3>\n<p>ISO 11158, DIN 51524 (HLP) ve önde gelen hidrolik pompa üreticilerinin teknik şartnamelerine uygundur.</p>",
     "specs": [
       {
         "label": "Viskozite Sınıfı",
@@ -179,7 +179,7 @@
       },
       {
         "label": "Ambalaj Tipi",
-        "value": "16 L (Teneke)"
+        "value": "15 L (Teneke)"
       },
       {
         "label": "Marka",
@@ -197,21 +197,21 @@
     "image": "/images/products/artoil-hydros-100-hidrolik-yagi-16-l.png",
     "msdsUrl": "https://hidrolikyagi.net/wp-content/uploads/2024/10/artoil-hydros-100-msds.pdf",
     "tdsUrl": "https://hidrolikyagi.net/wp-content/uploads/2024/10/artoil-hydros-100-tds.pdf",
-    "shortDesc": "Artoil Hydros 100 Hidrolik Yağı - 16 L (16 L), Artoil Hydros 100 ailesinin ISO VG 100 sınıfı ürünü olup ağır hizmet tipi endüstriyel sirkülasyon sistemleri ve yüksek basınçlı büyük çaplı hidrolik silindirlerde güçlü yastıklama sunar."
+    "shortDesc": "Artoil Hydros 100 Hidrolik Yağı - 15 L (15 L), Artoil Hydros 100 ailesinin ISO VG 100 sınıfı ürünü olup ağır hizmet tipi endüstriyel sirkülasyon sistemleri ve yüksek basınçlı büyük çaplı hidrolik silindirlerde güçlü yastıklama sunar."
   },
   {
-    "id": "artoil-hydros-150-hidrolik-yagi-16-l",
-    "name": "Artoil Hydros 150 Hidrolik Yağı - 16 L",
+    "id": "artoil-hydros-150-hidrolik-yagi-15-l",
+    "name": "Artoil Hydros 150 Hidrolik Yağı - 15 L",
     "brand": "artoil",
     "brandName": "Artoil",
     "series": "Hydros 150",
     "viscosity": "ISO VG 150",
-    "packageSize": "16 L",
+    "packageSize": "15 L",
     "packageType": "Teneke",
     "inStock": true,
     "featured": true,
-    "shortDescription": "Artoil Hydros 150 Hidrolik Yağı - 16 L (16 L), Artoil Hydros 150 ailesinin ISO VG 150 sınıfı ürünü olup yüksek sıcaklıklı ağır sanayi tesislerinde düşük hızlı hidrolik tahrik ve yataklama ünitelerinde kesintisiz yağ filmi muhafaza eder.",
-    "description": "<p class=\"lead\">Orijinal <strong>16 L</strong> ambalajında sunulan <strong>Artoil Hydros 150 Hidrolik Yağı - 16 L</strong>, Artoil markasının <strong>Hydros 150</strong> ürün grubunda yer alan, <strong>ISO VG 150</strong> viskozite değerine sahip yüksek kaliteli hidrolik sistem yağıdır ve yüksek sıcaklıklı ağır sanayi tesislerinde düşük hızlı hidrolik tahrik ve yataklama ünitelerinde kesintisiz yağ filmi muhafaza eder.</p>\n\n<h3>Artoil Hydros 150 Hidrolik Yağı - 16 L Ürün Özellikleri ve İşletme Avantajları</h3>\n<ul>\n  <li><strong>Özel ISO VG 150 Akışkanlık Dengesi:</strong> Bu ürün, yüksek sıcaklıklı ağır sanayi tesislerinde düşük hızlı hidrolik tahrik ve yataklama ünitelerinde kesintisiz yağ filmi muhafaza eder.</li>\n  <li><strong>Oksidasyon ve Tortu Direnci:</strong> Uzun süreli sıcak çalışma koşullarında dahi yağın kalınlaşmasını, çamurlaşmasını ve valf sürgülerinde vernik bırakmasını engeller.</li>\n  <li><strong>Korozyon ve Pas Koruması:</strong> Hidrolik devre elemanlarını, silindir millerini ve tank yüzeylerini neme ve pasa karşı koruma altına alır.</li>\n  <li><strong>Sızdırmazlık Elemanlarıyla Tam Uyum:</strong> Sistemdeki elastomer keçe ve o-ringlerin esnekliğini koruyarak yağ kaçaklarının önüne geçer.</li>\n</ul>\n\n<h3>Hangi Makinelerde Tercih Edilir?</h3>\n<p>Artoil Hydros 150 Hidrolik Yağı - 16 L (16 L); üretici kataloglarında ISO VG 150 sınıfı hidrolik yağ önerilen sanayi presleri, enjeksiyon makineleri, kaldırma platformları, takım tezgahları ve iş makinelerinin hidrolik devrelerinde yüksek performansla çalışır.</p>\n\n<h3>Performans Seviyesi</h3>\n<p>ISO 11158, DIN 51524 (HLP) ve önde gelen hidrolik pompa üreticilerinin teknik şartnamelerine uygundur.</p>",
+    "shortDescription": "Artoil Hydros 150 Hidrolik Yağı - 15 L (15 L), Artoil Hydros 150 ailesinin ISO VG 150 sınıfı ürünü olup yüksek sıcaklıklı ağır sanayi tesislerinde düşük hızlı hidrolik tahrik ve yataklama ünitelerinde kesintisiz yağ filmi muhafaza eder.",
+    "description": "<p class=\"lead\">Orijinal <strong>15 L</strong> ambalajında sunulan <strong>Artoil Hydros 150 Hidrolik Yağı - 15 L</strong>, Artoil markasının <strong>Hydros 150</strong> ürün grubunda yer alan, <strong>ISO VG 150</strong> viskozite değerine sahip yüksek kaliteli hidrolik sistem yağıdır ve yüksek sıcaklıklı ağır sanayi tesislerinde düşük hızlı hidrolik tahrik ve yataklama ünitelerinde kesintisiz yağ filmi muhafaza eder.</p>\n\n<h3>Artoil Hydros 150 Hidrolik Yağı - 15 L Ürün Özellikleri ve İşletme Avantajları</h3>\n<ul>\n  <li><strong>Özel ISO VG 150 Akışkanlık Dengesi:</strong> Bu ürün, yüksek sıcaklıklı ağır sanayi tesislerinde düşük hızlı hidrolik tahrik ve yataklama ünitelerinde kesintisiz yağ filmi muhafaza eder.</li>\n  <li><strong>Oksidasyon ve Tortu Direnci:</strong> Uzun süreli sıcak çalışma koşullarında dahi yağın kalınlaşmasını, çamurlaşmasını ve valf sürgülerinde vernik bırakmasını engeller.</li>\n  <li><strong>Korozyon ve Pas Koruması:</strong> Hidrolik devre elemanlarını, silindir millerini ve tank yüzeylerini neme ve pasa karşı koruma altına alır.</li>\n  <li><strong>Sızdırmazlık Elemanlarıyla Tam Uyum:</strong> Sistemdeki elastomer keçe ve o-ringlerin esnekliğini koruyarak yağ kaçaklarının önüne geçer.</li>\n</ul>\n\n<h3>Hangi Makinelerde Tercih Edilir?</h3>\n<p>Artoil Hydros 150 Hidrolik Yağı - 15 L (15 L); üretici kataloglarında ISO VG 150 sınıfı hidrolik yağ önerilen sanayi presleri, enjeksiyon makineleri, kaldırma platformları, takım tezgahları ve iş makinelerinin hidrolik devrelerinde yüksek performansla çalışır.</p>\n\n<h3>Performans Seviyesi</h3>\n<p>ISO 11158, DIN 51524 (HLP) ve önde gelen hidrolik pompa üreticilerinin teknik şartnamelerine uygundur.</p>",
     "specs": [
       {
         "label": "Viskozite Sınıfı",
@@ -219,7 +219,7 @@
       },
       {
         "label": "Ambalaj Tipi",
-        "value": "16 L (Teneke)"
+        "value": "15 L (Teneke)"
       },
       {
         "label": "Marka",
@@ -237,21 +237,21 @@
     "image": "/images/products/artoil-hydros-150-hidrolik-yagi-16-l.png",
     "msdsUrl": "#",
     "tdsUrl": "#",
-    "shortDesc": "Artoil Hydros 150 Hidrolik Yağı - 16 L (16 L), Artoil Hydros 150 ailesinin ISO VG 150 sınıfı ürünü olup yüksek sıcaklıklı ağır sanayi tesislerinde düşük hızlı hidrolik tahrik ve yataklama ünitelerinde kesintisiz yağ filmi muhafaza eder."
+    "shortDesc": "Artoil Hydros 150 Hidrolik Yağı - 15 L (15 L), Artoil Hydros 150 ailesinin ISO VG 150 sınıfı ürünü olup yüksek sıcaklıklı ağır sanayi tesislerinde düşük hızlı hidrolik tahrik ve yataklama ünitelerinde kesintisiz yağ filmi muhafaza eder."
   },
   {
-    "id": "artoil-hydros-hvi-15-hidrolik-yagi-16-l",
-    "name": "Artoil Hydros HVI 15 Hidrolik Yağı - 16 L",
+    "id": "artoil-hydros-hvi-15-hidrolik-yagi-15-l",
+    "name": "Artoil Hydros HVI 15 Hidrolik Yağı - 15 L",
     "brand": "artoil",
     "brandName": "Artoil",
     "series": "Hydros HVI 15",
     "viscosity": "ISO VG 15",
-    "packageSize": "16 L",
+    "packageSize": "15 L",
     "packageType": "Teneke",
     "inStock": true,
     "featured": true,
-    "shortDescription": "Artoil Hydros HVI 15 Hidrolik Yağı - 16 L (16 L), Artoil Hydros HVI 15 ailesinin ISO VG 15 sınıfı ürünü olup kış şartlarında açık sahada çalışan iş makineleri, araç üstü ekipmanlar ve soğuk ortam hidrolik platformlarında kolay ilk çalıştırma sağlar.",
-    "description": "<p class=\"lead\">Orijinal <strong>16 L</strong> ambalajında sunulan <strong>Artoil Hydros HVI 15 Hidrolik Yağı - 16 L</strong>, Artoil markasının <strong>Hydros HVI 15</strong> ürün grubunda yer alan, <strong>ISO VG 15</strong> viskozite değerine sahip yüksek kaliteli hidrolik sistem yağıdır ve kış şartlarında açık sahada çalışan iş makineleri, araç üstü ekipmanlar ve soğuk ortam hidrolik platformlarında kolay ilk çalıştırma sağlar.</p>\n\n<h3>Artoil Hydros HVI 15 Hidrolik Yağı - 16 L Ürün Özellikleri ve İşletme Avantajları</h3>\n<ul>\n  <li><strong>Özel ISO VG 15 Akışkanlık Dengesi:</strong> Bu ürün, kış şartlarında açık sahada çalışan iş makineleri, araç üstü ekipmanlar ve soğuk ortam hidrolik platformlarında kolay ilk çalıştırma sağlar.</li>\n  <li><strong>Oksidasyon ve Tortu Direnci:</strong> Uzun süreli sıcak çalışma koşullarında dahi yağın kalınlaşmasını, çamurlaşmasını ve valf sürgülerinde vernik bırakmasını engeller.</li>\n  <li><strong>Korozyon ve Pas Koruması:</strong> Hidrolik devre elemanlarını, silindir millerini ve tank yüzeylerini neme ve pasa karşı koruma altına alır.</li>\n  <li><strong>Sızdırmazlık Elemanlarıyla Tam Uyum:</strong> Sistemdeki elastomer keçe ve o-ringlerin esnekliğini koruyarak yağ kaçaklarının önüne geçer.</li>\n</ul>\n\n<h3>Hangi Makinelerde Tercih Edilir?</h3>\n<p>Artoil Hydros HVI 15 Hidrolik Yağı - 16 L (16 L); üretici kataloglarında ISO VG 15 sınıfı hidrolik yağ önerilen sanayi presleri, enjeksiyon makineleri, kaldırma platformları, takım tezgahları ve iş makinelerinin hidrolik devrelerinde yüksek performansla çalışır.</p>\n\n<h3>Performans Seviyesi</h3>\n<p>ISO 11158, DIN 51524 (HVLP) ve önde gelen hidrolik pompa üreticilerinin teknik şartnamelerine uygundur.</p>",
+    "shortDescription": "Artoil Hydros HVI 15 Hidrolik Yağı - 15 L (15 L), Artoil Hydros HVI 15 ailesinin ISO VG 15 sınıfı ürünü olup kış şartlarında açık sahada çalışan iş makineleri, araç üstü ekipmanlar ve soğuk ortam hidrolik platformlarında kolay ilk çalıştırma sağlar.",
+    "description": "<p class=\"lead\">Orijinal <strong>15 L</strong> ambalajında sunulan <strong>Artoil Hydros HVI 15 Hidrolik Yağı - 15 L</strong>, Artoil markasının <strong>Hydros HVI 15</strong> ürün grubunda yer alan, <strong>ISO VG 15</strong> viskozite değerine sahip yüksek kaliteli hidrolik sistem yağıdır ve kış şartlarında açık sahada çalışan iş makineleri, araç üstü ekipmanlar ve soğuk ortam hidrolik platformlarında kolay ilk çalıştırma sağlar.</p>\n\n<h3>Artoil Hydros HVI 15 Hidrolik Yağı - 15 L Ürün Özellikleri ve İşletme Avantajları</h3>\n<ul>\n  <li><strong>Özel ISO VG 15 Akışkanlık Dengesi:</strong> Bu ürün, kış şartlarında açık sahada çalışan iş makineleri, araç üstü ekipmanlar ve soğuk ortam hidrolik platformlarında kolay ilk çalıştırma sağlar.</li>\n  <li><strong>Oksidasyon ve Tortu Direnci:</strong> Uzun süreli sıcak çalışma koşullarında dahi yağın kalınlaşmasını, çamurlaşmasını ve valf sürgülerinde vernik bırakmasını engeller.</li>\n  <li><strong>Korozyon ve Pas Koruması:</strong> Hidrolik devre elemanlarını, silindir millerini ve tank yüzeylerini neme ve pasa karşı koruma altına alır.</li>\n  <li><strong>Sızdırmazlık Elemanlarıyla Tam Uyum:</strong> Sistemdeki elastomer keçe ve o-ringlerin esnekliğini koruyarak yağ kaçaklarının önüne geçer.</li>\n</ul>\n\n<h3>Hangi Makinelerde Tercih Edilir?</h3>\n<p>Artoil Hydros HVI 15 Hidrolik Yağı - 15 L (15 L); üretici kataloglarında ISO VG 15 sınıfı hidrolik yağ önerilen sanayi presleri, enjeksiyon makineleri, kaldırma platformları, takım tezgahları ve iş makinelerinin hidrolik devrelerinde yüksek performansla çalışır.</p>\n\n<h3>Performans Seviyesi</h3>\n<p>ISO 11158, DIN 51524 (HVLP) ve önde gelen hidrolik pompa üreticilerinin teknik şartnamelerine uygundur.</p>",
     "specs": [
       {
         "label": "Viskozite Sınıfı",
@@ -259,7 +259,7 @@
       },
       {
         "label": "Ambalaj Tipi",
-        "value": "16 L (Teneke)"
+        "value": "15 L (Teneke)"
       },
       {
         "label": "Marka",
@@ -277,21 +277,21 @@
     "image": "/images/products/artoil-hydros-hvi-15-hidrolik-yagi-16-l.png",
     "msdsUrl": "#",
     "tdsUrl": "#",
-    "shortDesc": "Artoil Hydros HVI 15 Hidrolik Yağı - 16 L (16 L), Artoil Hydros HVI 15 ailesinin ISO VG 15 sınıfı ürünü olup kış şartlarında açık sahada çalışan iş makineleri, araç üstü ekipmanlar ve soğuk ortam hidrolik platformlarında kolay ilk çalıştırma sağlar."
+    "shortDesc": "Artoil Hydros HVI 15 Hidrolik Yağı - 15 L (15 L), Artoil Hydros HVI 15 ailesinin ISO VG 15 sınıfı ürünü olup kış şartlarında açık sahada çalışan iş makineleri, araç üstü ekipmanlar ve soğuk ortam hidrolik platformlarında kolay ilk çalıştırma sağlar."
   },
   {
-    "id": "artoil-hydros-hvi-22-hidrolik-yagi-16-l",
-    "name": "Artoil Hydros HVI 22 Hidrolik Yağı - 16 L",
+    "id": "artoil-hydros-hvi-22-hidrolik-yagi-15-l",
+    "name": "Artoil Hydros HVI 22 Hidrolik Yağı - 15 L",
     "brand": "artoil",
     "brandName": "Artoil",
     "series": "Hydros HVI 22",
     "viscosity": "ISO VG 22",
-    "packageSize": "16 L",
+    "packageSize": "15 L",
     "packageType": "Teneke",
     "inStock": true,
     "featured": true,
-    "shortDescription": "Artoil Hydros HVI 22 Hidrolik Yağı - 16 L (16 L), Artoil Hydros HVI 22 ailesinin ISO VG 22 sınıfı ürünü olup dar toleranslı servo valfler, robotik hidrolik kollar ve hızlı çevrim süreli otomasyon makinelerinde gecikmesiz güç aktarımı yapar.",
-    "description": "<p class=\"lead\">Orijinal <strong>16 L</strong> ambalajında sunulan <strong>Artoil Hydros HVI 22 Hidrolik Yağı - 16 L</strong>, Artoil markasının <strong>Hydros HVI 22</strong> ürün grubunda yer alan, <strong>ISO VG 22</strong> viskozite değerine sahip yüksek kaliteli hidrolik sistem yağıdır ve dar toleranslı servo valfler, robotik hidrolik kollar ve hızlı çevrim süreli otomasyon makinelerinde gecikmesiz güç aktarımı yapar.</p>\n\n<h3>Artoil Hydros HVI 22 Hidrolik Yağı - 16 L Ürün Özellikleri ve İşletme Avantajları</h3>\n<ul>\n  <li><strong>Özel ISO VG 22 Akışkanlık Dengesi:</strong> Bu ürün, dar toleranslı servo valfler, robotik hidrolik kollar ve hızlı çevrim süreli otomasyon makinelerinde gecikmesiz güç aktarımı yapar.</li>\n  <li><strong>Oksidasyon ve Tortu Direnci:</strong> Uzun süreli sıcak çalışma koşullarında dahi yağın kalınlaşmasını, çamurlaşmasını ve valf sürgülerinde vernik bırakmasını engeller.</li>\n  <li><strong>Korozyon ve Pas Koruması:</strong> Hidrolik devre elemanlarını, silindir millerini ve tank yüzeylerini neme ve pasa karşı koruma altına alır.</li>\n  <li><strong>Sızdırmazlık Elemanlarıyla Tam Uyum:</strong> Sistemdeki elastomer keçe ve o-ringlerin esnekliğini koruyarak yağ kaçaklarının önüne geçer.</li>\n</ul>\n\n<h3>Hangi Makinelerde Tercih Edilir?</h3>\n<p>Artoil Hydros HVI 22 Hidrolik Yağı - 16 L (16 L); üretici kataloglarında ISO VG 22 sınıfı hidrolik yağ önerilen sanayi presleri, enjeksiyon makineleri, kaldırma platformları, takım tezgahları ve iş makinelerinin hidrolik devrelerinde yüksek performansla çalışır.</p>\n\n<h3>Performans Seviyesi</h3>\n<p>ISO 11158, DIN 51524 (HVLP) ve önde gelen hidrolik pompa üreticilerinin teknik şartnamelerine uygundur.</p>",
+    "shortDescription": "Artoil Hydros HVI 22 Hidrolik Yağı - 15 L (15 L), Artoil Hydros HVI 22 ailesinin ISO VG 22 sınıfı ürünü olup dar toleranslı servo valfler, robotik hidrolik kollar ve hızlı çevrim süreli otomasyon makinelerinde gecikmesiz güç aktarımı yapar.",
+    "description": "<p class=\"lead\">Orijinal <strong>15 L</strong> ambalajında sunulan <strong>Artoil Hydros HVI 22 Hidrolik Yağı - 15 L</strong>, Artoil markasının <strong>Hydros HVI 22</strong> ürün grubunda yer alan, <strong>ISO VG 22</strong> viskozite değerine sahip yüksek kaliteli hidrolik sistem yağıdır ve dar toleranslı servo valfler, robotik hidrolik kollar ve hızlı çevrim süreli otomasyon makinelerinde gecikmesiz güç aktarımı yapar.</p>\n\n<h3>Artoil Hydros HVI 22 Hidrolik Yağı - 15 L Ürün Özellikleri ve İşletme Avantajları</h3>\n<ul>\n  <li><strong>Özel ISO VG 22 Akışkanlık Dengesi:</strong> Bu ürün, dar toleranslı servo valfler, robotik hidrolik kollar ve hızlı çevrim süreli otomasyon makinelerinde gecikmesiz güç aktarımı yapar.</li>\n  <li><strong>Oksidasyon ve Tortu Direnci:</strong> Uzun süreli sıcak çalışma koşullarında dahi yağın kalınlaşmasını, çamurlaşmasını ve valf sürgülerinde vernik bırakmasını engeller.</li>\n  <li><strong>Korozyon ve Pas Koruması:</strong> Hidrolik devre elemanlarını, silindir millerini ve tank yüzeylerini neme ve pasa karşı koruma altına alır.</li>\n  <li><strong>Sızdırmazlık Elemanlarıyla Tam Uyum:</strong> Sistemdeki elastomer keçe ve o-ringlerin esnekliğini koruyarak yağ kaçaklarının önüne geçer.</li>\n</ul>\n\n<h3>Hangi Makinelerde Tercih Edilir?</h3>\n<p>Artoil Hydros HVI 22 Hidrolik Yağı - 15 L (15 L); üretici kataloglarında ISO VG 22 sınıfı hidrolik yağ önerilen sanayi presleri, enjeksiyon makineleri, kaldırma platformları, takım tezgahları ve iş makinelerinin hidrolik devrelerinde yüksek performansla çalışır.</p>\n\n<h3>Performans Seviyesi</h3>\n<p>ISO 11158, DIN 51524 (HVLP) ve önde gelen hidrolik pompa üreticilerinin teknik şartnamelerine uygundur.</p>",
     "specs": [
       {
         "label": "Viskozite Sınıfı",
@@ -299,7 +299,7 @@
       },
       {
         "label": "Ambalaj Tipi",
-        "value": "16 L (Teneke)"
+        "value": "15 L (Teneke)"
       },
       {
         "label": "Marka",
@@ -317,21 +317,21 @@
     "image": "/images/products/artoil-hydros-hvi-22-hidrolik-yagi-16-l.png",
     "msdsUrl": "#",
     "tdsUrl": "#",
-    "shortDesc": "Artoil Hydros HVI 22 Hidrolik Yağı - 16 L (16 L), Artoil Hydros HVI 22 ailesinin ISO VG 22 sınıfı ürünü olup dar toleranslı servo valfler, robotik hidrolik kollar ve hızlı çevrim süreli otomasyon makinelerinde gecikmesiz güç aktarımı yapar."
+    "shortDesc": "Artoil Hydros HVI 22 Hidrolik Yağı - 15 L (15 L), Artoil Hydros HVI 22 ailesinin ISO VG 22 sınıfı ürünü olup dar toleranslı servo valfler, robotik hidrolik kollar ve hızlı çevrim süreli otomasyon makinelerinde gecikmesiz güç aktarımı yapar."
   },
   {
-    "id": "artoil-hydros-hvi-32-hidrolik-yagi-16-l",
-    "name": "Artoil Hydros HVI 32 Hidrolik Yağı - 16 L",
+    "id": "artoil-hydros-hvi-32-hidrolik-yagi-15-l",
+    "name": "Artoil Hydros HVI 32 Hidrolik Yağı - 15 L",
     "brand": "artoil",
     "brandName": "Artoil",
     "series": "Hydros HVI 32",
     "viscosity": "ISO VG 32",
-    "packageSize": "16 L",
+    "packageSize": "15 L",
     "packageType": "Teneke",
     "inStock": true,
     "featured": false,
-    "shortDescription": "Artoil Hydros HVI 32 Hidrolik Yağı - 16 L (16 L), Artoil Hydros HVI 32 ailesinin ISO VG 32 sınıfı ürünü olup seri çalışan CNC tezgahları, abkant presler ve standart fabrika hidrolik ünitelerinde pompa aşınmasını ve ısınmayı önler.",
-    "description": "<p class=\"lead\">Orijinal <strong>16 L</strong> ambalajında sunulan <strong>Artoil Hydros HVI 32 Hidrolik Yağı - 16 L</strong>, Artoil markasının <strong>Hydros HVI 32</strong> ürün grubunda yer alan, <strong>ISO VG 32</strong> viskozite değerine sahip yüksek kaliteli hidrolik sistem yağıdır ve seri çalışan CNC tezgahları, abkant presler ve standart fabrika hidrolik ünitelerinde pompa aşınmasını ve ısınmayı önler.</p>\n\n<h3>Artoil Hydros HVI 32 Hidrolik Yağı - 16 L Ürün Özellikleri ve İşletme Avantajları</h3>\n<ul>\n  <li><strong>Özel ISO VG 32 Akışkanlık Dengesi:</strong> Bu ürün, seri çalışan CNC tezgahları, abkant presler ve standart fabrika hidrolik ünitelerinde pompa aşınmasını ve ısınmayı önler.</li>\n  <li><strong>Oksidasyon ve Tortu Direnci:</strong> Uzun süreli sıcak çalışma koşullarında dahi yağın kalınlaşmasını, çamurlaşmasını ve valf sürgülerinde vernik bırakmasını engeller.</li>\n  <li><strong>Korozyon ve Pas Koruması:</strong> Hidrolik devre elemanlarını, silindir millerini ve tank yüzeylerini neme ve pasa karşı koruma altına alır.</li>\n  <li><strong>Sızdırmazlık Elemanlarıyla Tam Uyum:</strong> Sistemdeki elastomer keçe ve o-ringlerin esnekliğini koruyarak yağ kaçaklarının önüne geçer.</li>\n</ul>\n\n<h3>Hangi Makinelerde Tercih Edilir?</h3>\n<p>Artoil Hydros HVI 32 Hidrolik Yağı - 16 L (16 L); üretici kataloglarında ISO VG 32 sınıfı hidrolik yağ önerilen sanayi presleri, enjeksiyon makineleri, kaldırma platformları, takım tezgahları ve iş makinelerinin hidrolik devrelerinde yüksek performansla çalışır.</p>\n\n<h3>Performans Seviyesi</h3>\n<p>ISO 11158, DIN 51524 (HVLP) ve önde gelen hidrolik pompa üreticilerinin teknik şartnamelerine uygundur.</p>",
+    "shortDescription": "Artoil Hydros HVI 32 Hidrolik Yağı - 15 L (15 L), Artoil Hydros HVI 32 ailesinin ISO VG 32 sınıfı ürünü olup seri çalışan CNC tezgahları, abkant presler ve standart fabrika hidrolik ünitelerinde pompa aşınmasını ve ısınmayı önler.",
+    "description": "<p class=\"lead\">Orijinal <strong>15 L</strong> ambalajında sunulan <strong>Artoil Hydros HVI 32 Hidrolik Yağı - 15 L</strong>, Artoil markasının <strong>Hydros HVI 32</strong> ürün grubunda yer alan, <strong>ISO VG 32</strong> viskozite değerine sahip yüksek kaliteli hidrolik sistem yağıdır ve seri çalışan CNC tezgahları, abkant presler ve standart fabrika hidrolik ünitelerinde pompa aşınmasını ve ısınmayı önler.</p>\n\n<h3>Artoil Hydros HVI 32 Hidrolik Yağı - 15 L Ürün Özellikleri ve İşletme Avantajları</h3>\n<ul>\n  <li><strong>Özel ISO VG 32 Akışkanlık Dengesi:</strong> Bu ürün, seri çalışan CNC tezgahları, abkant presler ve standart fabrika hidrolik ünitelerinde pompa aşınmasını ve ısınmayı önler.</li>\n  <li><strong>Oksidasyon ve Tortu Direnci:</strong> Uzun süreli sıcak çalışma koşullarında dahi yağın kalınlaşmasını, çamurlaşmasını ve valf sürgülerinde vernik bırakmasını engeller.</li>\n  <li><strong>Korozyon ve Pas Koruması:</strong> Hidrolik devre elemanlarını, silindir millerini ve tank yüzeylerini neme ve pasa karşı koruma altına alır.</li>\n  <li><strong>Sızdırmazlık Elemanlarıyla Tam Uyum:</strong> Sistemdeki elastomer keçe ve o-ringlerin esnekliğini koruyarak yağ kaçaklarının önüne geçer.</li>\n</ul>\n\n<h3>Hangi Makinelerde Tercih Edilir?</h3>\n<p>Artoil Hydros HVI 32 Hidrolik Yağı - 15 L (15 L); üretici kataloglarında ISO VG 32 sınıfı hidrolik yağ önerilen sanayi presleri, enjeksiyon makineleri, kaldırma platformları, takım tezgahları ve iş makinelerinin hidrolik devrelerinde yüksek performansla çalışır.</p>\n\n<h3>Performans Seviyesi</h3>\n<p>ISO 11158, DIN 51524 (HVLP) ve önde gelen hidrolik pompa üreticilerinin teknik şartnamelerine uygundur.</p>",
     "specs": [
       {
         "label": "Viskozite Sınıfı",
@@ -339,7 +339,7 @@
       },
       {
         "label": "Ambalaj Tipi",
-        "value": "16 L (Teneke)"
+        "value": "15 L (Teneke)"
       },
       {
         "label": "Marka",
@@ -357,21 +357,21 @@
     "image": "/images/products/artoil-hydros-hvi-32-hidrolik-yagi-16-l.png",
     "msdsUrl": "https://hidrolikyagi.net/wp-content/uploads/2024/10/artoil-hydros-hvi-32-msds.pdf",
     "tdsUrl": "https://hidrolikyagi.net/wp-content/uploads/2024/10/artoil-hydros-hvi-32-tds.pdf",
-    "shortDesc": "Artoil Hydros HVI 32 Hidrolik Yağı - 16 L (16 L), Artoil Hydros HVI 32 ailesinin ISO VG 32 sınıfı ürünü olup seri çalışan CNC tezgahları, abkant presler ve standart fabrika hidrolik ünitelerinde pompa aşınmasını ve ısınmayı önler."
+    "shortDesc": "Artoil Hydros HVI 32 Hidrolik Yağı - 15 L (15 L), Artoil Hydros HVI 32 ailesinin ISO VG 32 sınıfı ürünü olup seri çalışan CNC tezgahları, abkant presler ve standart fabrika hidrolik ünitelerinde pompa aşınmasını ve ısınmayı önler."
   },
   {
-    "id": "artoil-hydros-hvi-46-hidrolik-yagi-16-l",
-    "name": "Artoil Hydros HVI 46 Hidrolik Yağı - 16 L",
+    "id": "artoil-hydros-hvi-46-hidrolik-yagi-15-l",
+    "name": "Artoil Hydros HVI 46 Hidrolik Yağı - 15 L",
     "brand": "artoil",
     "brandName": "Artoil",
     "series": "Hydros HVI 46",
     "viscosity": "ISO VG 46",
-    "packageSize": "16 L",
+    "packageSize": "15 L",
     "packageType": "Teneke",
     "inStock": true,
     "featured": false,
-    "shortDescription": "Artoil Hydros HVI 46 Hidrolik Yağı - 16 L (16 L), Artoil Hydros HVI 46 ailesinin ISO VG 46 sınıfı ürünü olup orta ve yüksek basınçlı kanatlı, dişli ve pistonlu pompalara sahip tüm sanayi makinelerinde dört mevsim güvenilir performans gösterir.",
-    "description": "<p class=\"lead\">Orijinal <strong>16 L</strong> ambalajında sunulan <strong>Artoil Hydros HVI 46 Hidrolik Yağı - 16 L</strong>, Artoil markasının <strong>Hydros HVI 46</strong> ürün grubunda yer alan, <strong>ISO VG 46</strong> viskozite değerine sahip yüksek kaliteli hidrolik sistem yağıdır ve orta ve yüksek basınçlı kanatlı, dişli ve pistonlu pompalara sahip tüm sanayi makinelerinde dört mevsim güvenilir performans gösterir.</p>\n\n<h3>Artoil Hydros HVI 46 Hidrolik Yağı - 16 L Ürün Özellikleri ve İşletme Avantajları</h3>\n<ul>\n  <li><strong>Özel ISO VG 46 Akışkanlık Dengesi:</strong> Bu ürün, orta ve yüksek basınçlı kanatlı, dişli ve pistonlu pompalara sahip tüm sanayi makinelerinde dört mevsim güvenilir performans gösterir.</li>\n  <li><strong>Oksidasyon ve Tortu Direnci:</strong> Uzun süreli sıcak çalışma koşullarında dahi yağın kalınlaşmasını, çamurlaşmasını ve valf sürgülerinde vernik bırakmasını engeller.</li>\n  <li><strong>Korozyon ve Pas Koruması:</strong> Hidrolik devre elemanlarını, silindir millerini ve tank yüzeylerini neme ve pasa karşı koruma altına alır.</li>\n  <li><strong>Sızdırmazlık Elemanlarıyla Tam Uyum:</strong> Sistemdeki elastomer keçe ve o-ringlerin esnekliğini koruyarak yağ kaçaklarının önüne geçer.</li>\n</ul>\n\n<h3>Hangi Makinelerde Tercih Edilir?</h3>\n<p>Artoil Hydros HVI 46 Hidrolik Yağı - 16 L (16 L); üretici kataloglarında ISO VG 46 sınıfı hidrolik yağ önerilen sanayi presleri, enjeksiyon makineleri, kaldırma platformları, takım tezgahları ve iş makinelerinin hidrolik devrelerinde yüksek performansla çalışır.</p>\n\n<h3>Performans Seviyesi</h3>\n<p>ISO 11158, DIN 51524 (HVLP) ve önde gelen hidrolik pompa üreticilerinin teknik şartnamelerine uygundur.</p>",
+    "shortDescription": "Artoil Hydros HVI 46 Hidrolik Yağı - 15 L (15 L), Artoil Hydros HVI 46 ailesinin ISO VG 46 sınıfı ürünü olup orta ve yüksek basınçlı kanatlı, dişli ve pistonlu pompalara sahip tüm sanayi makinelerinde dört mevsim güvenilir performans gösterir.",
+    "description": "<p class=\"lead\">Orijinal <strong>15 L</strong> ambalajında sunulan <strong>Artoil Hydros HVI 46 Hidrolik Yağı - 15 L</strong>, Artoil markasının <strong>Hydros HVI 46</strong> ürün grubunda yer alan, <strong>ISO VG 46</strong> viskozite değerine sahip yüksek kaliteli hidrolik sistem yağıdır ve orta ve yüksek basınçlı kanatlı, dişli ve pistonlu pompalara sahip tüm sanayi makinelerinde dört mevsim güvenilir performans gösterir.</p>\n\n<h3>Artoil Hydros HVI 46 Hidrolik Yağı - 15 L Ürün Özellikleri ve İşletme Avantajları</h3>\n<ul>\n  <li><strong>Özel ISO VG 46 Akışkanlık Dengesi:</strong> Bu ürün, orta ve yüksek basınçlı kanatlı, dişli ve pistonlu pompalara sahip tüm sanayi makinelerinde dört mevsim güvenilir performans gösterir.</li>\n  <li><strong>Oksidasyon ve Tortu Direnci:</strong> Uzun süreli sıcak çalışma koşullarında dahi yağın kalınlaşmasını, çamurlaşmasını ve valf sürgülerinde vernik bırakmasını engeller.</li>\n  <li><strong>Korozyon ve Pas Koruması:</strong> Hidrolik devre elemanlarını, silindir millerini ve tank yüzeylerini neme ve pasa karşı koruma altına alır.</li>\n  <li><strong>Sızdırmazlık Elemanlarıyla Tam Uyum:</strong> Sistemdeki elastomer keçe ve o-ringlerin esnekliğini koruyarak yağ kaçaklarının önüne geçer.</li>\n</ul>\n\n<h3>Hangi Makinelerde Tercih Edilir?</h3>\n<p>Artoil Hydros HVI 46 Hidrolik Yağı - 15 L (15 L); üretici kataloglarında ISO VG 46 sınıfı hidrolik yağ önerilen sanayi presleri, enjeksiyon makineleri, kaldırma platformları, takım tezgahları ve iş makinelerinin hidrolik devrelerinde yüksek performansla çalışır.</p>\n\n<h3>Performans Seviyesi</h3>\n<p>ISO 11158, DIN 51524 (HVLP) ve önde gelen hidrolik pompa üreticilerinin teknik şartnamelerine uygundur.</p>",
     "specs": [
       {
         "label": "Viskozite Sınıfı",
@@ -379,7 +379,7 @@
       },
       {
         "label": "Ambalaj Tipi",
-        "value": "16 L (Teneke)"
+        "value": "15 L (Teneke)"
       },
       {
         "label": "Marka",
@@ -397,21 +397,21 @@
     "image": "/images/products/artoil-hydros-hvi-46-hidrolik-yagi-16-l.png",
     "msdsUrl": "https://hidrolikyagi.net/wp-content/uploads/2024/10/artoil-hydros-hvi-46-msds.pdf",
     "tdsUrl": "https://hidrolikyagi.net/wp-content/uploads/2024/10/artoil-hydros-hvi-46-tds.pdf",
-    "shortDesc": "Artoil Hydros HVI 46 Hidrolik Yağı - 16 L (16 L), Artoil Hydros HVI 46 ailesinin ISO VG 46 sınıfı ürünü olup orta ve yüksek basınçlı kanatlı, dişli ve pistonlu pompalara sahip tüm sanayi makinelerinde dört mevsim güvenilir performans gösterir."
+    "shortDesc": "Artoil Hydros HVI 46 Hidrolik Yağı - 15 L (15 L), Artoil Hydros HVI 46 ailesinin ISO VG 46 sınıfı ürünü olup orta ve yüksek basınçlı kanatlı, dişli ve pistonlu pompalara sahip tüm sanayi makinelerinde dört mevsim güvenilir performans gösterir."
   },
   {
-    "id": "artoil-hydros-hvi-68-hidrolik-yagi-16-l",
-    "name": "Artoil Hydros HVI 68 Hidrolik Yağı - 16 L",
+    "id": "artoil-hydros-hvi-68-hidrolik-yagi-15-l",
+    "name": "Artoil Hydros HVI 68 Hidrolik Yağı - 15 L",
     "brand": "artoil",
     "brandName": "Artoil",
     "series": "Hydros HVI 68",
     "viscosity": "ISO VG 68",
-    "packageSize": "16 L",
+    "packageSize": "15 L",
     "packageType": "Teneke",
     "inStock": true,
     "featured": false,
-    "shortDescription": "Artoil Hydros HVI 68 Hidrolik Yağı - 16 L (16 L), Artoil Hydros HVI 68 ailesinin ISO VG 68 sınıfı ürünü olup yüksek çalışma sıcaklığına ve ağır darbeli yüklere maruz kalan inşaat makineleri, hurda presleri ve mermer makinelerinde iç kaçakları önler.",
-    "description": "<p class=\"lead\">Orijinal <strong>16 L</strong> ambalajında sunulan <strong>Artoil Hydros HVI 68 Hidrolik Yağı - 16 L</strong>, Artoil markasının <strong>Hydros HVI 68</strong> ürün grubunda yer alan, <strong>ISO VG 68</strong> viskozite değerine sahip yüksek kaliteli hidrolik sistem yağıdır ve yüksek çalışma sıcaklığına ve ağır darbeli yüklere maruz kalan inşaat makineleri, hurda presleri ve mermer makinelerinde iç kaçakları önler.</p>\n\n<h3>Artoil Hydros HVI 68 Hidrolik Yağı - 16 L Ürün Özellikleri ve İşletme Avantajları</h3>\n<ul>\n  <li><strong>Özel ISO VG 68 Akışkanlık Dengesi:</strong> Bu ürün, yüksek çalışma sıcaklığına ve ağır darbeli yüklere maruz kalan inşaat makineleri, hurda presleri ve mermer makinelerinde iç kaçakları önler.</li>\n  <li><strong>Oksidasyon ve Tortu Direnci:</strong> Uzun süreli sıcak çalışma koşullarında dahi yağın kalınlaşmasını, çamurlaşmasını ve valf sürgülerinde vernik bırakmasını engeller.</li>\n  <li><strong>Korozyon ve Pas Koruması:</strong> Hidrolik devre elemanlarını, silindir millerini ve tank yüzeylerini neme ve pasa karşı koruma altına alır.</li>\n  <li><strong>Sızdırmazlık Elemanlarıyla Tam Uyum:</strong> Sistemdeki elastomer keçe ve o-ringlerin esnekliğini koruyarak yağ kaçaklarının önüne geçer.</li>\n</ul>\n\n<h3>Hangi Makinelerde Tercih Edilir?</h3>\n<p>Artoil Hydros HVI 68 Hidrolik Yağı - 16 L (16 L); üretici kataloglarında ISO VG 68 sınıfı hidrolik yağ önerilen sanayi presleri, enjeksiyon makineleri, kaldırma platformları, takım tezgahları ve iş makinelerinin hidrolik devrelerinde yüksek performansla çalışır.</p>\n\n<h3>Performans Seviyesi</h3>\n<p>ISO 11158, DIN 51524 (HVLP) ve önde gelen hidrolik pompa üreticilerinin teknik şartnamelerine uygundur.</p>",
+    "shortDescription": "Artoil Hydros HVI 68 Hidrolik Yağı - 15 L (15 L), Artoil Hydros HVI 68 ailesinin ISO VG 68 sınıfı ürünü olup yüksek çalışma sıcaklığına ve ağır darbeli yüklere maruz kalan inşaat makineleri, hurda presleri ve mermer makinelerinde iç kaçakları önler.",
+    "description": "<p class=\"lead\">Orijinal <strong>15 L</strong> ambalajında sunulan <strong>Artoil Hydros HVI 68 Hidrolik Yağı - 15 L</strong>, Artoil markasının <strong>Hydros HVI 68</strong> ürün grubunda yer alan, <strong>ISO VG 68</strong> viskozite değerine sahip yüksek kaliteli hidrolik sistem yağıdır ve yüksek çalışma sıcaklığına ve ağır darbeli yüklere maruz kalan inşaat makineleri, hurda presleri ve mermer makinelerinde iç kaçakları önler.</p>\n\n<h3>Artoil Hydros HVI 68 Hidrolik Yağı - 15 L Ürün Özellikleri ve İşletme Avantajları</h3>\n<ul>\n  <li><strong>Özel ISO VG 68 Akışkanlık Dengesi:</strong> Bu ürün, yüksek çalışma sıcaklığına ve ağır darbeli yüklere maruz kalan inşaat makineleri, hurda presleri ve mermer makinelerinde iç kaçakları önler.</li>\n  <li><strong>Oksidasyon ve Tortu Direnci:</strong> Uzun süreli sıcak çalışma koşullarında dahi yağın kalınlaşmasını, çamurlaşmasını ve valf sürgülerinde vernik bırakmasını engeller.</li>\n  <li><strong>Korozyon ve Pas Koruması:</strong> Hidrolik devre elemanlarını, silindir millerini ve tank yüzeylerini neme ve pasa karşı koruma altına alır.</li>\n  <li><strong>Sızdırmazlık Elemanlarıyla Tam Uyum:</strong> Sistemdeki elastomer keçe ve o-ringlerin esnekliğini koruyarak yağ kaçaklarının önüne geçer.</li>\n</ul>\n\n<h3>Hangi Makinelerde Tercih Edilir?</h3>\n<p>Artoil Hydros HVI 68 Hidrolik Yağı - 15 L (15 L); üretici kataloglarında ISO VG 68 sınıfı hidrolik yağ önerilen sanayi presleri, enjeksiyon makineleri, kaldırma platformları, takım tezgahları ve iş makinelerinin hidrolik devrelerinde yüksek performansla çalışır.</p>\n\n<h3>Performans Seviyesi</h3>\n<p>ISO 11158, DIN 51524 (HVLP) ve önde gelen hidrolik pompa üreticilerinin teknik şartnamelerine uygundur.</p>",
     "specs": [
       {
         "label": "Viskozite Sınıfı",
@@ -419,7 +419,7 @@
       },
       {
         "label": "Ambalaj Tipi",
-        "value": "16 L (Teneke)"
+        "value": "15 L (Teneke)"
       },
       {
         "label": "Marka",
@@ -437,21 +437,21 @@
     "image": "/images/products/artoil-hydros-hvi-68-hidrolik-yagi-16-l.png",
     "msdsUrl": "https://hidrolikyagi.net/wp-content/uploads/2024/10/artoil-hydros-hvi-68-msds.pdf",
     "tdsUrl": "https://hidrolikyagi.net/wp-content/uploads/2024/10/artoil-hydros-hvi-68-tds.pdf",
-    "shortDesc": "Artoil Hydros HVI 68 Hidrolik Yağı - 16 L (16 L), Artoil Hydros HVI 68 ailesinin ISO VG 68 sınıfı ürünü olup yüksek çalışma sıcaklığına ve ağır darbeli yüklere maruz kalan inşaat makineleri, hurda presleri ve mermer makinelerinde iç kaçakları önler."
+    "shortDesc": "Artoil Hydros HVI 68 Hidrolik Yağı - 15 L (15 L), Artoil Hydros HVI 68 ailesinin ISO VG 68 sınıfı ürünü olup yüksek çalışma sıcaklığına ve ağır darbeli yüklere maruz kalan inşaat makineleri, hurda presleri ve mermer makinelerinde iç kaçakları önler."
   },
   {
-    "id": "artoil-hydros-hvi-100-hidrolik-yagi-16-l",
-    "name": "Artoil Hydros HVI 100 Hidrolik Yağı - 16 L",
+    "id": "artoil-hydros-hvi-100-hidrolik-yagi-15-l",
+    "name": "Artoil Hydros HVI 100 Hidrolik Yağı - 15 L",
     "brand": "artoil",
     "brandName": "Artoil",
     "series": "Hydros HVI 100",
     "viscosity": "ISO VG 100",
-    "packageSize": "16 L",
+    "packageSize": "15 L",
     "packageType": "Teneke",
     "inStock": true,
     "featured": false,
-    "shortDescription": "Artoil Hydros HVI 100 Hidrolik Yağı - 16 L (16 L), Artoil Hydros HVI 100 ailesinin ISO VG 100 sınıfı ürünü olup ağır hizmet tipi endüstriyel sirkülasyon sistemleri ve yüksek basınçlı büyük çaplı hidrolik silindirlerde güçlü yastıklama sunar.",
-    "description": "<p class=\"lead\">Orijinal <strong>16 L</strong> ambalajında sunulan <strong>Artoil Hydros HVI 100 Hidrolik Yağı - 16 L</strong>, Artoil markasının <strong>Hydros HVI 100</strong> ürün grubunda yer alan, <strong>ISO VG 100</strong> viskozite değerine sahip yüksek kaliteli hidrolik sistem yağıdır ve ağır hizmet tipi endüstriyel sirkülasyon sistemleri ve yüksek basınçlı büyük çaplı hidrolik silindirlerde güçlü yastıklama sunar.</p>\n\n<h3>Artoil Hydros HVI 100 Hidrolik Yağı - 16 L Ürün Özellikleri ve İşletme Avantajları</h3>\n<ul>\n  <li><strong>Özel ISO VG 100 Akışkanlık Dengesi:</strong> Bu ürün, ağır hizmet tipi endüstriyel sirkülasyon sistemleri ve yüksek basınçlı büyük çaplı hidrolik silindirlerde güçlü yastıklama sunar.</li>\n  <li><strong>Oksidasyon ve Tortu Direnci:</strong> Uzun süreli sıcak çalışma koşullarında dahi yağın kalınlaşmasını, çamurlaşmasını ve valf sürgülerinde vernik bırakmasını engeller.</li>\n  <li><strong>Korozyon ve Pas Koruması:</strong> Hidrolik devre elemanlarını, silindir millerini ve tank yüzeylerini neme ve pasa karşı koruma altına alır.</li>\n  <li><strong>Sızdırmazlık Elemanlarıyla Tam Uyum:</strong> Sistemdeki elastomer keçe ve o-ringlerin esnekliğini koruyarak yağ kaçaklarının önüne geçer.</li>\n</ul>\n\n<h3>Hangi Makinelerde Tercih Edilir?</h3>\n<p>Artoil Hydros HVI 100 Hidrolik Yağı - 16 L (16 L); üretici kataloglarında ISO VG 100 sınıfı hidrolik yağ önerilen sanayi presleri, enjeksiyon makineleri, kaldırma platformları, takım tezgahları ve iş makinelerinin hidrolik devrelerinde yüksek performansla çalışır.</p>\n\n<h3>Performans Seviyesi</h3>\n<p>ISO 11158, DIN 51524 (HVLP) ve önde gelen hidrolik pompa üreticilerinin teknik şartnamelerine uygundur.</p>",
+    "shortDescription": "Artoil Hydros HVI 100 Hidrolik Yağı - 15 L (15 L), Artoil Hydros HVI 100 ailesinin ISO VG 100 sınıfı ürünü olup ağır hizmet tipi endüstriyel sirkülasyon sistemleri ve yüksek basınçlı büyük çaplı hidrolik silindirlerde güçlü yastıklama sunar.",
+    "description": "<p class=\"lead\">Orijinal <strong>15 L</strong> ambalajında sunulan <strong>Artoil Hydros HVI 100 Hidrolik Yağı - 15 L</strong>, Artoil markasının <strong>Hydros HVI 100</strong> ürün grubunda yer alan, <strong>ISO VG 100</strong> viskozite değerine sahip yüksek kaliteli hidrolik sistem yağıdır ve ağır hizmet tipi endüstriyel sirkülasyon sistemleri ve yüksek basınçlı büyük çaplı hidrolik silindirlerde güçlü yastıklama sunar.</p>\n\n<h3>Artoil Hydros HVI 100 Hidrolik Yağı - 15 L Ürün Özellikleri ve İşletme Avantajları</h3>\n<ul>\n  <li><strong>Özel ISO VG 100 Akışkanlık Dengesi:</strong> Bu ürün, ağır hizmet tipi endüstriyel sirkülasyon sistemleri ve yüksek basınçlı büyük çaplı hidrolik silindirlerde güçlü yastıklama sunar.</li>\n  <li><strong>Oksidasyon ve Tortu Direnci:</strong> Uzun süreli sıcak çalışma koşullarında dahi yağın kalınlaşmasını, çamurlaşmasını ve valf sürgülerinde vernik bırakmasını engeller.</li>\n  <li><strong>Korozyon ve Pas Koruması:</strong> Hidrolik devre elemanlarını, silindir millerini ve tank yüzeylerini neme ve pasa karşı koruma altına alır.</li>\n  <li><strong>Sızdırmazlık Elemanlarıyla Tam Uyum:</strong> Sistemdeki elastomer keçe ve o-ringlerin esnekliğini koruyarak yağ kaçaklarının önüne geçer.</li>\n</ul>\n\n<h3>Hangi Makinelerde Tercih Edilir?</h3>\n<p>Artoil Hydros HVI 100 Hidrolik Yağı - 15 L (15 L); üretici kataloglarında ISO VG 100 sınıfı hidrolik yağ önerilen sanayi presleri, enjeksiyon makineleri, kaldırma platformları, takım tezgahları ve iş makinelerinin hidrolik devrelerinde yüksek performansla çalışır.</p>\n\n<h3>Performans Seviyesi</h3>\n<p>ISO 11158, DIN 51524 (HVLP) ve önde gelen hidrolik pompa üreticilerinin teknik şartnamelerine uygundur.</p>",
     "specs": [
       {
         "label": "Viskozite Sınıfı",
@@ -459,7 +459,7 @@
       },
       {
         "label": "Ambalaj Tipi",
-        "value": "16 L (Teneke)"
+        "value": "15 L (Teneke)"
       },
       {
         "label": "Marka",
@@ -477,7 +477,7 @@
     "image": "/images/products/artoil-hydros-hvi-100-hidrolik-yagi-16-l.png",
     "msdsUrl": "#",
     "tdsUrl": "#",
-    "shortDesc": "Artoil Hydros HVI 100 Hidrolik Yağı - 16 L (16 L), Artoil Hydros HVI 100 ailesinin ISO VG 100 sınıfı ürünü olup ağır hizmet tipi endüstriyel sirkülasyon sistemleri ve yüksek basınçlı büyük çaplı hidrolik silindirlerde güçlü yastıklama sunar."
+    "shortDesc": "Artoil Hydros HVI 100 Hidrolik Yağı - 15 L (15 L), Artoil Hydros HVI 100 ailesinin ISO VG 100 sınıfı ürünü olup ağır hizmet tipi endüstriyel sirkülasyon sistemleri ve yüksek basınçlı büyük çaplı hidrolik silindirlerde güçlü yastıklama sunar."
   },
   {
     "id": "castrol-hyspin-awh-m-32-16-kg",
